@@ -11,3 +11,5 @@ functions/*.m~
 *.m~
 
 examples/.DS_Store
+optimization/*
+
